@@ -15,28 +15,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A4_BarChart.java">
+        <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A14_LastIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A5_SumOfTwoArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="36" />
+              <folding>
+                <element signature="method#main#0;class#A14_FirstAndLastIndex#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A6_DifferenceOfTwoArrays.java">
+        <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A15_FirstIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="268">
+              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -53,13 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Assignment1/PrimeOrNot.java" />
-        <option value="$PROJECT_DIR$/src/Assignment1/Q1PrimeOrNot.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Q1PrimeOrNot.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Q1_PrimeOrNot.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Q2_fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Q3_Reverse.java" />
-        <option value="$PROJECT_DIR$/src/Assignment2/Q4_PrimeTillN.java" />
         <option value="$PROJECT_DIR$/src/Assignment2/Q5_fibonacciLessThanN.java" />
         <option value="$PROJECT_DIR$/src/Assignment2/Q6_OddEvenSum.java" />
         <option value="$PROJECT_DIR$/src/Assignment2/Q7_Pattern1.java" />
@@ -72,7 +59,6 @@
         <option value="$PROJECT_DIR$/src/Assignment2/Q14_Pattern8.java" />
         <option value="$PROJECT_DIR$/src/Assignment2/Q15_Pattern9.java" />
         <option value="$PROJECT_DIR$/src/Assignment3/Q2_decTOoct.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q1_binTOdec.java" />
         <option value="$PROJECT_DIR$/src/Assignment3/Q3_octTObin.java" />
         <option value="$PROJECT_DIR$/src/Assignment3/Q4_anyTOany.java" />
         <option value="$PROJECT_DIR$/src/Assignment3/Q5_MaxMinF2C.java" />
@@ -100,6 +86,18 @@
         <option value="$PROJECT_DIR$/src/PepCoding/Array/A4_BarChart.java" />
         <option value="$PROJECT_DIR$/src/PepCoding/Array/A5_SumOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/PepCoding/Array/A6_DifferenceOfTwoArrays.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A7_ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A8_RotateArray.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A9_InverseOfArray.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A10_subArrayOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/Q1_binTOdec.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A11_subsetOfArray.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A12_BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A13_CielAndFlooe.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A13_CielAndFloor.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A14_FirstAndLastIndex.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A14_LastIndex.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/Array/A15_FirstIndex.java" />
       </list>
     </option>
   </component>
@@ -165,41 +163,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A6_DifferenceOfTwoArrays">
-    <configuration name="A2_SpanOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A2_SpanOfAnArray" />
+  <component name="RunManager" selected="Application.A15_FirstIndex">
+    <configuration name="A11_subsetOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A11_subsetOfArray" />
       <module name="DS ALGO" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A3_FindIndexOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A3_FindIndexOfArray" />
+    <configuration name="A12_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A12_BinarySearch" />
       <module name="DS ALGO" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A4_BarChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A4_BarChart" />
+    <configuration name="A13_CielAndFloor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A13_CielAndFloor" />
       <module name="DS ALGO" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A5_SumOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A5_SumOfTwoArrays" />
+    <configuration name="A14_LastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A14_LastIndex" />
       <module name="DS ALGO" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A6_DifferenceOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A6_DifferenceOfTwoArrays" />
+    <configuration name="A15_FirstIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.Array.A15_FirstIndex" />
       <module name="DS ALGO" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -213,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.A2_SpanOfAnArray" />
-      <item itemvalue="Application.A3_FindIndexOfArray" />
-      <item itemvalue="Application.A4_BarChart" />
-      <item itemvalue="Application.A5_SumOfTwoArrays" />
-      <item itemvalue="Application.A6_DifferenceOfTwoArrays" />
+      <item itemvalue="Application.A11_subsetOfArray" />
+      <item itemvalue="Application.A12_BinarySearch" />
+      <item itemvalue="Application.A13_CielAndFloor" />
+      <item itemvalue="Application.A14_LastIndex" />
+      <item itemvalue="Application.A15_FirstIndex" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A6_DifferenceOfTwoArrays" />
-        <item itemvalue="Application.A5_SumOfTwoArrays" />
-        <item itemvalue="Application.A4_BarChart" />
-        <item itemvalue="Application.A3_FindIndexOfArray" />
-        <item itemvalue="Application.A2_SpanOfAnArray" />
+        <item itemvalue="Application.A15_FirstIndex" />
+        <item itemvalue="Application.A14_LastIndex" />
+        <item itemvalue="Application.A13_CielAndFloor" />
+        <item itemvalue="Application.A12_BinarySearch" />
+        <item itemvalue="Application.A11_subsetOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -242,13 +240,13 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49791667" visible="true" weight="0.16853933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49791667" visible="true" weight="0.16853933" />
       <window_info id="Structure" order="1" sideWeight="0.50208336" side_tool="true" weight="0.24983476" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29748604" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29748604" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -283,27 +281,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment2/Q2_fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment2/Q4_PrimeTillN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment2/Q1_PrimeOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -413,13 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
           <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment3/Q1_binTOdec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -593,8 +563,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A6_DifferenceOfTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="255">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A7_ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A8_RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A9_InverseOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A10_subArrayOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment3/Q1_binTOdec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A11_subsetOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A12_BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A13_CielAndFloor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A14_LastIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="36" />
+          <folding>
+            <element signature="method#main#0;class#A14_FirstAndLastIndex#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A15_FirstIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
         </state>
       </provider>
     </entry>
