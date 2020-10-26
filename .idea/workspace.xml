@@ -15,19 +15,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q9_SelectionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q10_InsertionsSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="387">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST3_InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST4_MergingTwoSortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q10_InsertionsSort.java">
+        <entry file="file://$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST5_MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="204">
+              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+              <folding>
+                <element signature="e#811#1060#1" />
+                <element signature="e#1084#1158#1" />
+                <element signature="e#1181#1255#1" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,15 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Assignment3/Q3_octTObin.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q4_anyTOany.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q5_MaxMinF2C.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q6_NumberOfDigitsInNUmber.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q7_MagicInverse.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q8_CheckMirrorInverse.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q9_Armstrong.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q10_AllArmstrong.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q11_GCD.java" />
         <option value="$PROJECT_DIR$/src/Assignment3/Q12_LCM.java" />
         <option value="$PROJECT_DIR$/src/Assignment3/Q13_Power.java" />
         <option value="$PROJECT_DIR$/src/Assignment3/Q14_log.java" />
@@ -92,14 +106,23 @@
         <option value="$PROJECT_DIR$/src/Assingnment4/Q5_InverseArray.java" />
         <option value="$PROJECT_DIR$/src/Assingnment4/Q6_IsMirrorInverse.java" />
         <option value="$PROJECT_DIR$/src/Assingnment4/Q7_InverseCheck.java" />
-        <option value="$PROJECT_DIR$/src/Assingnment4/Q8_BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/Assingnment4/Q9_SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/Assingnment4/Q10_InsertionsSort.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q11_IntersectionOfArrays.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q12_TargetSum.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q13_TripletSum.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q14_SumOfTwoArrays.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q8_BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST1_BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q9_SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST2_SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST_3InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST4_MergingTwoSortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST5_MergeSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
+    <option name="x" value="427" />
     <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1060" />
@@ -127,7 +150,14 @@
               <item name="DS ALGO" type="b2602c69:ProjectViewProjectNode" />
               <item name="DS ALGO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Assingnment4" type="462c0819:PsiDirectoryNode" />
+              <item name="PepCoding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS ALGO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS ALGO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PepCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="SortingTechniques" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,41 +184,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q10_InsertionsSort">
-    <configuration name="Q10_InsertionsSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assingnment4.Q10_InsertionsSort" />
-      <module name="DS ALGO" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q6_IsMirrorInverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assingnment4.Q6_IsMirrorInverse" />
-      <module name="DS ALGO" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q7_InverseCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assingnment4.Q7_InverseCheck" />
-      <module name="DS ALGO" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q8_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assingnment4.Q8_BubbleSort" />
-      <module name="DS ALGO" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ST5_MergeSort">
     <configuration name="Q9_SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assingnment4.Q9_SelectionSort" />
+      <module name="DS ALGO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ST2_SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.SortingTechniques.ST2_SelectionSort" />
+      <module name="DS ALGO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ST3_InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.SortingTechniques.ST3_InsertionSort" />
+      <module name="DS ALGO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ST4_MergingTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.SortingTechniques.ST4_MergingTwoSortedArrays" />
+      <module name="DS ALGO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ST5_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PepCoding.SortingTechniques.ST5_MergeSort" />
       <module name="DS ALGO" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -202,19 +232,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q6_IsMirrorInverse" />
-      <item itemvalue="Application.Q7_InverseCheck" />
-      <item itemvalue="Application.Q8_BubbleSort" />
       <item itemvalue="Application.Q9_SelectionSort" />
-      <item itemvalue="Application.Q10_InsertionsSort" />
+      <item itemvalue="Application.ST2_SelectionSort" />
+      <item itemvalue="Application.ST3_InsertionSort" />
+      <item itemvalue="Application.ST4_MergingTwoSortedArrays" />
+      <item itemvalue="Application.ST5_MergeSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q10_InsertionsSort" />
+        <item itemvalue="Application.ST5_MergeSort" />
+        <item itemvalue="Application.ST4_MergingTwoSortedArrays" />
+        <item itemvalue="Application.ST3_InsertionSort" />
+        <item itemvalue="Application.ST2_SelectionSort" />
         <item itemvalue="Application.Q9_SelectionSort" />
-        <item itemvalue="Application.Q8_BubbleSort" />
-        <item itemvalue="Application.Q7_InverseCheck" />
-        <item itemvalue="Application.Q6_IsMirrorInverse" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +268,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29748604" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.18715084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35055867" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
@@ -272,76 +302,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Assignment2/Q13_Pattern7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment2/Q15_Pattern9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment2/Q14_Pattern8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="809" column="16" selection-start-line="809" selection-start-column="16" selection-end-line="809" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crux/cruxdwarka/src/Assignment3/Q3_Oct2Bin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment3/Q3_octTObin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment3/Q4_anyTOany.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment3/Q2_decTOoct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment3/Q6_NumberOfDigitsInNUmber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment3/Q5_MaxMinF2C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment3/Q10_AllArmstrong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -465,13 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A5_SumOfTwoArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -611,24 +564,116 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q11_IntersectionOfArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q12_DoubleSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="22" />
+          <folding>
+            <element signature="method#main#0;class#Q12_TargetSum#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q13_TripletSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/Array/A5_SumOfTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q14_SumOfTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q8_BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="102">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="method#main#0;class#Q8_BubbleSort#0" />
+            <element signature="method#bubbleSort#0;class#Q8_BubbleSort#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST1_BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q9_SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST2_SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q10_InsertionsSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="387">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST3_InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="940" lean-forward="true" selection-start-line="940" selection-end-line="944" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST4_MergingTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/SortingTechniques/ST5_MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="e#811#1060#1" />
+            <element signature="e#1084#1158#1" />
+            <element signature="e#1181#1255#1" />
+          </folding>
         </state>
       </provider>
     </entry>

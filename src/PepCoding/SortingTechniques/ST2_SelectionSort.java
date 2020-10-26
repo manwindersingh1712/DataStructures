@@ -1,8 +1,8 @@
-package Assingnment4;
+package PepCoding.SortingTechniques;
 
 import java.util.Scanner;
 
-public class Q9_SelectionSort {
+public class ST2_SelectionSort {
     public static void main(String[] args) {
         Scanner scrn = new Scanner(System.in);
         int n = scrn.nextInt();
