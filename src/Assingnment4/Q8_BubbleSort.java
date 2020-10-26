@@ -1,0 +1,34 @@
+package Assingnment4;
+
+import java.util.Scanner;
+
+public class Q8_BubbleSort {
+    public static void main(String[] args) {
+        Scanner scrn = new Scanner(System.in);
+        int n = scrn.nextInt();
+        int[] arr = new int[n];
+        for (int i = 0; i < n; i++) {
+            arr[i] = scrn.nextInt();
+        }
+
+        bubbleSort(arr);
+
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
+
+    }
+
+    private static void bubbleSort(int[] arr) {
+
+        for (int j = 0; j < arr.length; j++) {
+            for (int i = 0; i < arr.length - 1; i++) {
+                if (arr[i] > arr[i + 1]) {
+                    int temp = arr[i];
+                    arr[i] = arr[i + 1];
+                    arr[i + 1] = temp;
+                }
+            }
+        }
+    }
+}
