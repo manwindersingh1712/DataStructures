@@ -14,11 +14,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PepCoding/PC3_TwoD_Array/TDA10_SearchInSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="56" column="14" lean-forward="true" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+            <state relative-caret-position="123">
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PepCoding/PC3_TwoD_Array/TDA4_SpiralTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q15_PrintRowWise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q16_PrintColWise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q17_SpiralAnticlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q18_SpiralClock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="65" column="50" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q13_TripletSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -35,10 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PepCoding/Array/A10_subArrayOfArray.java" />
-        <option value="$PROJECT_DIR$/src/Assignment3/Q1_binTOdec.java" />
-        <option value="$PROJECT_DIR$/src/PepCoding/Array/A11_subsetOfArray.java" />
-        <option value="$PROJECT_DIR$/src/PepCoding/Array/A12_BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/PepCoding/Array/A13_CielAndFlooe.java" />
         <option value="$PROJECT_DIR$/src/PepCoding/Array/A13_CielAndFloor.java" />
         <option value="$PROJECT_DIR$/src/PepCoding/Array/A14_FirstAndLastIndex.java" />
@@ -86,6 +136,10 @@
         <option value="$PROJECT_DIR$/src/PepCoding/TwoD_Array/TDA9_SaddlePoint.java" />
         <option value="$PROJECT_DIR$/src/PepCoding/TwoD_Array/TDA10_SearchInSortedArray.java" />
         <option value="$PROJECT_DIR$/src/PepCoding/PC3_TwoD_Array/TDA10_SearchInSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q15_Print2dArray.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q16_PrintColWise.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q17_SpiralAnticlock.java" />
+        <option value="$PROJECT_DIR$/src/Assingnment4/Q18_SpiralClock.java" />
       </list>
     </option>
   </component>
@@ -113,6 +167,18 @@
               <item name="DS ALGO" type="b2602c69:ProjectViewProjectNode" />
               <item name="DS ALGO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS ALGO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS ALGO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Assingnment4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS ALGO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS ALGO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PepCoding" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,41 +209,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TDA10_SearchInSortedArray">
+  <component name="RunManager" selected="Application.Q18_SpiralClock">
+    <configuration name="Q15_PrintRowWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assingnment4.Q15_PrintRowWise" />
+      <module name="DS ALGO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q16_PrintColWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assingnment4.Q16_PrintColWise" />
+      <module name="DS ALGO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q17_SpiralAnticlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assingnment4.Q17_SpiralAnticlock" />
+      <module name="DS ALGO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q18_SpiralClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assingnment4.Q18_SpiralClock" />
+      <module name="DS ALGO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TDA10_SearchInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PepCoding.PC3_TwoD_Array.TDA10_SearchInSortedArray" />
-      <module name="DS ALGO" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TDA6_Rotate90Deg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.PC3_TwoD_Array.TDA6_Rotate90Deg" />
-      <module name="DS ALGO" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TDA7_ShellRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.PC3_TwoD_Array.TDA7_ShellRotate" />
-      <module name="DS ALGO" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TDA8_DiagonalPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.PC3_TwoD_Array.TDA8_DiagonalPrint" />
-      <module name="DS ALGO" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TDA9_SaddlePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PepCoding.PC3_TwoD_Array.TDA9_SaddlePoint" />
       <module name="DS ALGO" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -191,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TDA6_Rotate90Deg" />
-      <item itemvalue="Application.TDA7_ShellRotate" />
-      <item itemvalue="Application.TDA8_DiagonalPrint" />
-      <item itemvalue="Application.TDA9_SaddlePoint" />
       <item itemvalue="Application.TDA10_SearchInSortedArray" />
+      <item itemvalue="Application.Q15_PrintRowWise" />
+      <item itemvalue="Application.Q16_PrintColWise" />
+      <item itemvalue="Application.Q17_SpiralAnticlock" />
+      <item itemvalue="Application.Q18_SpiralClock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q18_SpiralClock" />
+        <item itemvalue="Application.Q17_SpiralAnticlock" />
+        <item itemvalue="Application.Q16_PrintColWise" />
+        <item itemvalue="Application.Q15_PrintRowWise" />
         <item itemvalue="Application.TDA10_SearchInSortedArray" />
-        <item itemvalue="Application.TDA9_SaddlePoint" />
-        <item itemvalue="Application.TDA8_DiagonalPrint" />
-        <item itemvalue="Application.TDA7_ShellRotate" />
-        <item itemvalue="Application.TDA6_Rotate90Deg" />
       </list>
     </recent_temporary>
   </component>
@@ -261,34 +327,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PepCoding/PC1_Array/A11_subsetOfArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PepCoding/PC1_Array/A12_BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PepCoding/PC1_Array/A13_CielAndFloor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PepCoding/PC1_Array/A14_LastIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PepCoding/PC1_Array/A15_FirstIndex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
@@ -369,13 +407,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q13_TripletSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -572,13 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PepCoding/PC3_TwoD_Array/TDA4_SpiralTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PepCoding/PC3_TwoD_Array/TDA6_Rotate90Deg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -623,8 +647,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PepCoding/PC3_TwoD_Array/TDA10_SearchInSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="56" column="14" lean-forward="true" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        <state relative-caret-position="123">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q15_PrintRowWise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q16_PrintColWise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q13_TripletSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PepCoding/PC3_TwoD_Array/TDA4_SpiralTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q17_SpiralAnticlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assingnment4/Q18_SpiralClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="65" column="50" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="50" />
         </state>
       </provider>
     </entry>
